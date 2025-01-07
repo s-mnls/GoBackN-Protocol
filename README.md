@@ -61,6 +61,3 @@ Run the sender and receiver using separate terminal windows or processes.
 ## Logging
 - Both sender and receiver log their actions using the `logging` library.
 - Logs include information about **sent packets**, **acknowledgments**, **packet drops**, and **timeouts**.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
