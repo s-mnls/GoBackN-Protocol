@@ -1,0 +1,374 @@
+2024-11-15 15:14:24,034 - Sender: sending packet 0
+2024-11-15 15:14:24,041 - Sender: sending packet 1
+2024-11-15 15:14:24,041 - Receiver: packet 0 received
+2024-11-15 15:14:24,041 - Sender: sending packet 2
+2024-11-15 15:14:24,041 - Receiver: packet 1 received
+2024-11-15 15:14:24,041 - Sender: packet 3 dropped
+2024-11-15 15:14:24,041 - Receiver: packet 2 received
+2024-11-15 15:14:24,041 - Sender: ack 0 received
+2024-11-15 15:14:24,065 - Sender: sending packet 4
+2024-11-15 15:14:24,065 - Sender: ack 1 received
+2024-11-15 15:14:24,065 - Sender: sending packet 5
+2024-11-15 15:14:24,065 - Receiver: packet 4 received out of order
+2024-11-15 15:14:24,072 - Sender: ack 2 received
+2024-11-15 15:14:24,072 - Sender: sending packet 6
+2024-11-15 15:14:24,072 - Receiver: packet 5 received out of order
+2024-11-15 15:14:24,085 - Sender: ack 2 received, ignoring
+2024-11-15 15:14:24,085 - Sender: ack 2 received, ignoring
+2024-11-15 15:14:24,091 - Receiver: packet 6 received out of order
+2024-11-15 15:14:24,097 - Sender: ack 2 received, ignoring
+2024-11-15 15:14:24,128 - Sender: packet 3 timed out
+2024-11-15 15:14:24,128 - Sender: sending packet 3
+2024-11-15 15:14:24,140 - Sender: sending packet 4
+2024-11-15 15:14:24,146 - Receiver: packet 3 received
+2024-11-15 15:14:24,146 - Sender: sending packet 5
+2024-11-15 15:14:24,164 - Sender: sending packet 6
+2024-11-15 15:14:24,193 - Receiver: packet 4 received
+2024-11-15 15:14:24,200 - Receiver: packet 5 received
+2024-11-15 15:14:24,200 - Sender: ack 3 received
+2024-11-15 15:14:24,212 - Receiver: packet 6 received
+2024-11-15 15:14:24,230 - Sender: packet 7 dropped
+2024-11-15 15:14:24,254 - Sender: ack 4 received
+2024-11-15 15:14:24,254 - Sender: sending packet 8
+2024-11-15 15:14:24,267 - Sender: ack 5 received
+2024-11-15 15:14:24,267 - Receiver: packet 8 received out of order
+2024-11-15 15:14:24,267 - Sender: sending packet 9
+2024-11-15 15:14:24,292 - Sender: ack 6 received
+2024-11-15 15:14:24,293 - Sender: sending packet 10
+2024-11-15 15:14:24,295 - Receiver: packet 9 received out of order
+2024-11-15 15:14:24,299 - Sender: ack 6 received, ignoring
+2024-11-15 15:14:24,299 - Sender: ack 6 received, ignoring
+2024-11-15 15:14:24,306 - Receiver: packet 10 received out of order
+2024-11-15 15:14:24,312 - Sender: packet 7 timed out
+2024-11-15 15:14:24,319 - Sender: packet 7 dropped
+2024-11-15 15:14:24,319 - Sender: ack 6 received, ignoring
+2024-11-15 15:14:24,328 - Sender: sending packet 8
+2024-11-15 15:14:24,359 - Sender: sending packet 9
+2024-11-15 15:14:24,359 - Sender: sending packet 10
+2024-11-15 15:14:24,373 - Receiver: packet 8 received out of order
+2024-11-15 15:14:24,388 - Receiver: packet 9 received out of order
+2024-11-15 15:14:24,388 - Sender: ack 6 received, ignoring
+2024-11-15 15:14:24,400 - Receiver: packet 10 received out of order
+2024-11-15 15:14:24,413 - Sender: ack 6 received, ignoring
+2024-11-15 15:14:24,413 - Sender: packet 7 timed out
+2024-11-15 15:14:24,425 - Sender: ack 6 received, ignoring
+2024-11-15 15:14:24,443 - Sender: sending packet 7
+2024-11-15 15:14:24,486 - Sender: sending packet 8
+2024-11-15 15:14:24,486 - Receiver: packet 7 received
+2024-11-15 15:14:24,504 - Sender: ack 7 received
+2024-11-15 15:14:24,511 - Sender: sending packet 11
+2024-11-15 15:14:24,517 - Receiver: packet 11 received out of order
+2024-11-15 15:14:24,517 - Sender: sending packet 9
+2024-11-15 15:14:24,517 - Sender: sending packet 10
+2024-11-15 15:14:24,524 - Receiver: packet 8 received
+2024-11-15 15:14:24,529 - Sender: ack 7 received, ignoring
+2024-11-15 15:14:24,529 - Receiver: packet 9 received
+2024-11-15 15:14:24,548 - Sender: ack 8 received
+2024-11-15 15:14:24,580 - Sender: sending packet 12
+2024-11-15 15:14:24,580 - Sender: ack 9 received
+2024-11-15 15:14:24,580 - Sender: sending packet 13
+2024-11-15 15:14:24,561 - Receiver: packet 10 received
+2024-11-15 15:14:24,599 - Receiver: packet 12 received out of order
+2024-11-15 15:14:24,599 - Receiver: packet 13 received out of order
+2024-11-15 15:14:24,605 - Sender: ack 10 received
+2024-11-15 15:14:24,617 - Sender: sending packet 14
+2024-11-15 15:14:24,624 - Receiver: packet 14 received out of order
+2024-11-15 15:14:24,624 - Sender: ack 10 received, ignoring
+2024-11-15 15:14:24,662 - Sender: ack 10 received, ignoring
+2024-11-15 15:14:24,662 - Sender: ack 10 received, ignoring
+2024-11-15 15:14:24,687 - Sender: packet 11 timed out
+2024-11-15 15:14:24,687 - Sender: sending packet 11
+2024-11-15 15:14:24,699 - Sender: sending packet 12
+2024-11-15 15:14:24,706 - Receiver: packet 11 received
+2024-11-15 15:14:24,706 - Sender: sending packet 13
+2024-11-15 15:14:24,706 - Sender: sending packet 14
+2024-11-15 15:14:24,712 - Receiver: packet 12 received
+2024-11-15 15:14:24,719 - Sender: ack 11 received
+2024-11-15 15:14:24,727 - Receiver: packet 13 received
+2024-11-15 15:14:24,735 - Sender: packet 15 dropped
+2024-11-15 15:14:24,746 - Receiver: packet 14 received
+2024-11-15 15:14:24,765 - Sender: ack 12 received
+2024-11-15 15:14:24,814 - Sender: sending packet 16
+2024-11-15 15:14:24,827 - Sender: ack 13 received
+2024-11-15 15:14:24,827 - Sender: sending packet 17
+2024-11-15 15:14:24,827 - Receiver: packet 16 received out of order
+2024-11-15 15:14:24,846 - Sender: ack 14 received
+2024-11-15 15:14:24,846 - Receiver: packet 17 received out of order
+2024-11-15 15:14:24,857 - Sender: sending packet 18
+2024-11-15 15:14:24,887 - Sender: ack 14 received, ignoring
+2024-11-15 15:14:24,887 - Sender: ack 14 received, ignoring
+2024-11-15 15:14:24,893 - Receiver: packet 18 received out of order
+2024-11-15 15:14:24,911 - Sender: ack 14 received, ignoring
+2024-11-15 15:14:24,943 - Sender: packet 15 timed out
+2024-11-15 15:14:24,943 - Sender: packet 15 dropped
+2024-11-15 15:14:24,943 - Sender: sending packet 16
+2024-11-15 15:14:24,961 - Sender: sending packet 17
+2024-11-15 15:14:24,968 - Receiver: packet 16 received out of order
+2024-11-15 15:14:24,974 - Sender: sending packet 18
+2024-11-15 15:14:24,980 - Receiver: packet 17 received out of order
+2024-11-15 15:14:24,986 - Sender: ack 14 received, ignoring
+2024-11-15 15:14:24,993 - Receiver: packet 18 received out of order
+2024-11-15 15:14:25,012 - Sender: ack 14 received, ignoring
+2024-11-15 15:14:25,012 - Sender: packet 15 timed out
+2024-11-15 15:14:25,018 - Sender: ack 14 received, ignoring
+2024-11-15 15:14:25,018 - Sender: sending packet 15
+2024-11-15 15:14:25,049 - Sender: sending packet 16
+2024-11-15 15:14:25,056 - Receiver: packet 15 received
+2024-11-15 15:14:25,056 - Sender: sending packet 17
+2024-11-15 15:14:25,074 - Sender: sending packet 18
+2024-11-15 15:14:25,081 - Receiver: packet 16 received
+2024-11-15 15:14:25,093 - Receiver: packet 17 received
+2024-11-15 15:14:25,099 - Sender: ack 15 received
+2024-11-15 15:14:25,106 - Sender: packet 19 dropped
+2024-11-15 15:14:25,106 - Sender: ack 16 received
+2024-11-15 15:14:25,106 - Receiver: packet 18 received
+2024-11-15 15:14:25,112 - Sender: sending packet 20
+2024-11-15 15:14:25,123 - Receiver: packet 20 received out of order
+2024-11-15 15:14:25,129 - Sender: ack 17 received
+2024-11-15 15:14:25,129 - Sender: sending packet 21
+2024-11-15 15:14:25,130 - Sender: ack 18 received
+2024-11-15 15:14:25,130 - Sender: sending packet 22
+2024-11-15 15:14:25,130 - Receiver: packet 21 received out of order
+2024-11-15 15:14:25,130 - Sender: ack 18 received, ignoring
+2024-11-15 15:14:25,130 - Sender: ack 18 received, ignoring
+2024-11-15 15:14:25,142 - Receiver: packet 22 received out of order
+2024-11-15 15:14:25,155 - Sender: ack 18 received, ignoring
+2024-11-15 15:14:25,161 - Sender: packet 19 timed out
+2024-11-15 15:14:25,161 - Sender: packet 19 dropped
+2024-11-15 15:14:25,161 - Sender: sending packet 20
+2024-11-15 15:14:25,161 - Sender: sending packet 21
+2024-11-15 15:14:25,161 - Sender: sending packet 22
+2024-11-15 15:14:25,179 - Receiver: packet 20 received out of order
+2024-11-15 15:14:25,203 - Receiver: packet 21 received out of order
+2024-11-15 15:14:25,203 - Receiver: packet 22 received out of order
+2024-11-15 15:14:25,208 - Sender: ack 18 received, ignoring
+2024-11-15 15:14:25,208 - Sender: ack 18 received, ignoring
+2024-11-15 15:14:25,208 - Sender: ack 18 received, ignoring
+2024-11-15 15:14:25,226 - Sender: packet 19 timed out
+2024-11-15 15:14:25,238 - Sender: sending packet 19
+2024-11-15 15:14:25,251 - Sender: sending packet 20
+2024-11-15 15:14:25,257 - Receiver: packet 19 received
+2024-11-15 15:14:25,257 - Sender: sending packet 21
+2024-11-15 15:14:25,276 - Sender: sending packet 22
+2024-11-15 15:14:25,275 - Receiver: packet 20 received
+2024-11-15 15:14:25,282 - Receiver: packet 21 received
+2024-11-15 15:14:25,282 - Receiver: packet 22 received
+2024-11-15 15:14:25,275 - Sender: ack 19 received
+2024-11-15 15:14:25,294 - Sender: packet 23 dropped
+2024-11-15 15:14:25,300 - Sender: ack 20 received
+2024-11-15 15:14:25,312 - Sender: sending packet 24
+2024-11-15 15:14:25,312 - Sender: ack 21 received
+2024-11-15 15:14:25,312 - Sender: sending packet 25
+2024-11-15 15:14:25,312 - Sender: ack 22 received
+2024-11-15 15:14:25,312 - Sender: sending packet 26
+2024-11-15 15:14:25,319 - Receiver: packet 24 received out of order
+2024-11-15 15:14:25,331 - Receiver: packet 25 received out of order
+2024-11-15 15:14:25,331 - Receiver: packet 26 received out of order
+2024-11-15 15:14:25,337 - Sender: ack 22 received, ignoring
+2024-11-15 15:14:25,337 - Sender: ack 22 received, ignoring
+2024-11-15 15:14:25,337 - Sender: ack 22 received, ignoring
+2024-11-15 15:14:25,367 - Sender: packet 23 timed out
+2024-11-15 15:14:25,367 - Sender: packet 23 dropped
+2024-11-15 15:14:25,367 - Sender: sending packet 24
+2024-11-15 15:14:25,386 - Sender: sending packet 25
+2024-11-15 15:14:25,387 - Sender: sending packet 26
+2024-11-15 15:14:25,399 - Receiver: packet 24 received out of order
+2024-11-15 15:14:25,399 - Receiver: packet 25 received out of order
+2024-11-15 15:14:25,399 - Receiver: packet 26 received out of order
+2024-11-15 15:14:25,405 - Sender: ack 22 received, ignoring
+2024-11-15 15:14:25,405 - Sender: ack 22 received, ignoring
+2024-11-15 15:14:25,405 - Sender: ack 22 received, ignoring
+2024-11-15 15:14:25,405 - Sender: packet 23 timed out
+2024-11-15 15:14:25,430 - Sender: sending packet 23
+2024-11-15 15:14:25,430 - Sender: sending packet 24
+2024-11-15 15:14:25,430 - Sender: sending packet 25
+2024-11-15 15:14:25,430 - Sender: sending packet 26
+2024-11-15 15:14:25,430 - Receiver: packet 23 received
+2024-11-15 15:14:25,462 - Receiver: packet 24 received
+2024-11-15 15:14:25,468 - Receiver: packet 25 received
+2024-11-15 15:14:25,481 - Receiver: packet 26 received
+2024-11-15 15:14:25,468 - Sender: ack 23 received
+2024-11-15 15:14:25,487 - Sender: packet 27 dropped
+2024-11-15 15:14:25,487 - Sender: ack 24 received
+2024-11-15 15:14:25,487 - Sender: sending packet 28
+2024-11-15 15:14:25,487 - Sender: ack 25 received
+2024-11-15 15:14:25,487 - Sender: sending packet 29
+2024-11-15 15:14:25,487 - Sender: ack 26 received
+2024-11-15 15:14:25,487 - Sender: sending packet 30
+2024-11-15 15:14:25,494 - Receiver: packet 28 received out of order
+2024-11-15 15:14:25,494 - Receiver: packet 29 received out of order
+2024-11-15 15:14:25,494 - Receiver: packet 30 received out of order
+2024-11-15 15:14:25,500 - Sender: ack 26 received, ignoring
+2024-11-15 15:14:25,513 - Sender: ack 26 received, ignoring
+2024-11-15 15:14:25,513 - Sender: ack 26 received, ignoring
+2024-11-15 15:14:25,519 - Sender: packet 27 timed out
+2024-11-15 15:14:25,519 - Sender: packet 27 dropped
+2024-11-15 15:14:25,519 - Sender: sending packet 28
+2024-11-15 15:14:25,548 - Sender: sending packet 29
+2024-11-15 15:14:25,548 - Receiver: packet 28 received out of order
+2024-11-15 15:14:25,561 - Sender: sending packet 30
+2024-11-15 15:14:25,578 - Receiver: packet 29 received out of order
+2024-11-15 15:14:25,584 - Sender: ack 26 received, ignoring
+2024-11-15 15:14:25,597 - Sender: ack 26 received, ignoring
+2024-11-15 15:14:25,603 - Receiver: packet 30 received out of order
+2024-11-15 15:14:25,603 - Sender: ack 26 received, ignoring
+2024-11-15 15:14:25,609 - Sender: packet 27 timed out
+2024-11-15 15:14:25,609 - Sender: sending packet 27
+2024-11-15 15:14:25,634 - Sender: sending packet 28
+2024-11-15 15:14:25,639 - Receiver: packet 27 received
+2024-11-15 15:14:25,646 - Sender: sending packet 29
+2024-11-15 15:14:25,646 - Sender: sending packet 30
+2024-11-15 15:14:25,663 - Receiver: packet 28 received
+2024-11-15 15:14:25,669 - Sender: ack 27 received
+2024-11-15 15:14:25,669 - Sender: packet 31 dropped
+2024-11-15 15:14:25,669 - Receiver: packet 29 received
+2024-11-15 15:14:25,676 - Receiver: packet 30 received
+2024-11-15 15:14:25,676 - Sender: ack 28 received
+2024-11-15 15:14:25,695 - Sender: sending packet 32
+2024-11-15 15:14:25,707 - Sender: ack 29 received
+2024-11-15 15:14:25,707 - Sender: sending packet 33
+2024-11-15 15:14:25,707 - Receiver: packet 32 received out of order
+2024-11-15 15:14:25,725 - Receiver: packet 33 received out of order
+2024-11-15 15:14:25,707 - Sender: ack 30 received
+2024-11-15 15:14:25,730 - Sender: sending packet 34
+2024-11-15 15:14:25,755 - Sender: ack 30 received, ignoring
+2024-11-15 15:14:25,755 - Sender: ack 30 received, ignoring
+2024-11-15 15:14:25,768 - Receiver: packet 34 received out of order
+2024-11-15 15:14:25,768 - Sender: packet 31 timed out
+2024-11-15 15:14:25,768 - Sender: packet 31 dropped
+2024-11-15 15:14:25,768 - Sender: sending packet 32
+2024-11-15 15:14:25,768 - Sender: sending packet 33
+2024-11-15 15:14:25,768 - Sender: sending packet 34
+2024-11-15 15:14:25,805 - Receiver: packet 32 received out of order
+2024-11-15 15:14:25,812 - Sender: ack 30 received, ignoring
+2024-11-15 15:14:25,824 - Sender: ack 30 received, ignoring
+2024-11-15 15:14:25,818 - Receiver: packet 33 received out of order
+2024-11-15 15:14:25,861 - Receiver: packet 34 received out of order
+2024-11-15 15:14:25,861 - Sender: ack 30 received, ignoring
+2024-11-15 15:14:25,868 - Sender: ack 30 received, ignoring
+2024-11-15 15:14:25,880 - Sender: packet 31 timed out
+2024-11-15 15:14:25,880 - Sender: sending packet 31
+2024-11-15 15:14:25,886 - Sender: sending packet 32
+2024-11-15 15:14:25,886 - Sender: sending packet 33
+2024-11-15 15:14:25,886 - Sender: sending packet 34
+2024-11-15 15:14:25,892 - Receiver: packet 31 received
+2024-11-15 15:14:25,892 - Receiver: packet 32 received
+2024-11-15 15:14:25,892 - Receiver: packet 33 received
+2024-11-15 15:14:25,892 - Receiver: packet 34 received
+2024-11-15 15:14:25,899 - Sender: ack 31 received
+2024-11-15 15:14:25,911 - Sender: packet 35 dropped
+2024-11-15 15:14:25,911 - Sender: ack 32 received
+2024-11-15 15:14:25,911 - Sender: sending packet 36
+2024-11-15 15:14:25,917 - Sender: ack 33 received
+2024-11-15 15:14:25,918 - Sender: sending packet 37
+2024-11-15 15:14:25,918 - Receiver: packet 36 received out of order
+2024-11-15 15:14:25,918 - Sender: ack 34 received
+2024-11-15 15:14:25,918 - Sender: sending packet 38
+2024-11-15 15:14:25,918 - Receiver: packet 37 received out of order
+2024-11-15 15:14:25,930 - Sender: ack 34 received, ignoring
+2024-11-15 15:14:25,930 - Sender: ack 34 received, ignoring
+2024-11-15 15:14:25,942 - Receiver: packet 38 received out of order
+2024-11-15 15:14:25,961 - Sender: ack 34 received, ignoring
+2024-11-15 15:14:25,967 - Sender: packet 35 timed out
+2024-11-15 15:14:25,979 - Sender: packet 35 dropped
+2024-11-15 15:14:25,992 - Sender: sending packet 36
+2024-11-15 15:14:26,004 - Sender: sending packet 37
+2024-11-15 15:14:26,005 - Receiver: packet 36 received out of order
+2024-11-15 15:14:26,005 - Sender: ack 34 received, ignoring
+2024-11-15 15:14:26,011 - Sender: sending packet 38
+2024-11-15 15:14:26,017 - Receiver: packet 37 received out of order
+2024-11-15 15:14:26,042 - Receiver: packet 38 received out of order
+2024-11-15 15:14:26,049 - Sender: ack 34 received, ignoring
+2024-11-15 15:14:26,061 - Sender: ack 34 received, ignoring
+2024-11-15 15:14:26,086 - Sender: packet 35 timed out
+2024-11-15 15:14:26,099 - Sender: sending packet 35
+2024-11-15 15:14:26,099 - Sender: sending packet 36
+2024-11-15 15:14:26,099 - Sender: sending packet 37
+2024-11-15 15:14:26,105 - Sender: sending packet 38
+2024-11-15 15:14:26,112 - Receiver: packet 35 received
+2024-11-15 15:14:26,124 - Receiver: packet 36 received
+2024-11-15 15:14:26,130 - Sender: ack 35 received
+2024-11-15 15:14:26,130 - Sender: packet 39 dropped
+2024-11-15 15:14:26,137 - Receiver: packet 37 received
+2024-11-15 15:14:26,137 - Sender: ack 36 received
+2024-11-15 15:14:26,143 - Sender: sending packet 40
+2024-11-15 15:14:26,143 - Receiver: packet 38 received
+2024-11-15 15:14:26,149 - Sender: ack 37 received
+2024-11-15 15:14:26,149 - Sender: sending packet 41
+2024-11-15 15:14:26,150 - Sender: ack 38 received
+2024-11-15 15:14:26,150 - Sender: sending packet 42
+2024-11-15 15:14:26,150 - Receiver: packet 40 received out of order
+2024-11-15 15:14:26,150 - Receiver: packet 41 received out of order
+2024-11-15 15:14:26,150 - Sender: ack 38 received, ignoring
+2024-11-15 15:14:26,150 - Sender: ack 38 received, ignoring
+2024-11-15 15:14:26,155 - Receiver: packet 42 received out of order
+2024-11-15 15:14:26,156 - Sender: packet 39 timed out
+2024-11-15 15:14:26,162 - Sender: packet 39 dropped
+2024-11-15 15:14:26,162 - Sender: sending packet 40
+2024-11-15 15:14:26,168 - Sender: ack 38 received, ignoring
+2024-11-15 15:14:26,181 - Sender: sending packet 41
+2024-11-15 15:14:26,187 - Receiver: packet 40 received out of order
+2024-11-15 15:14:26,187 - Sender: sending packet 42
+2024-11-15 15:14:26,200 - Receiver: packet 41 received out of order
+2024-11-15 15:14:26,200 - Sender: ack 38 received, ignoring
+2024-11-15 15:14:26,206 - Receiver: packet 42 received out of order
+2024-11-15 15:14:26,218 - Sender: ack 38 received, ignoring
+2024-11-15 15:14:26,218 - Sender: packet 39 timed out
+2024-11-15 15:14:26,225 - Sender: ack 38 received, ignoring
+2024-11-15 15:14:26,243 - Sender: sending packet 39
+2024-11-15 15:14:26,280 - Sender: sending packet 40
+2024-11-15 15:14:26,286 - Receiver: packet 39 received
+2024-11-15 15:14:26,286 - Sender: sending packet 41
+2024-11-15 15:14:26,286 - Sender: sending packet 42
+2024-11-15 15:14:26,286 - Receiver: packet 40 received
+2024-11-15 15:14:26,292 - Sender: ack 39 received
+2024-11-15 15:14:26,292 - Receiver: packet 41 received
+2024-11-15 15:14:26,309 - Sender: packet 43 dropped
+2024-11-15 15:14:26,321 - Receiver: packet 42 received
+2024-11-15 15:14:26,334 - Sender: ack 40 received
+2024-11-15 15:14:26,351 - Sender: sending packet 44
+2024-11-15 15:14:26,351 - Sender: ack 41 received
+2024-11-15 15:14:26,351 - Sender: sending packet 45
+2024-11-15 15:14:26,351 - Sender: ack 42 received
+2024-11-15 15:14:26,351 - Sender: sending packet 46
+2024-11-15 15:14:26,357 - Receiver: packet 44 received out of order
+2024-11-15 15:14:26,376 - Sender: ack 42 received, ignoring
+2024-11-15 15:14:26,381 - Receiver: packet 45 received out of order
+2024-11-15 15:14:26,400 - Receiver: packet 46 received out of order
+2024-11-15 15:14:26,400 - Sender: ack 42 received, ignoring
+2024-11-15 15:14:26,412 - Sender: ack 42 received, ignoring
+2024-11-15 15:14:26,419 - Sender: packet 43 timed out
+2024-11-15 15:14:26,419 - Sender: packet 43 dropped
+2024-11-15 15:14:26,419 - Sender: sending packet 44
+2024-11-15 15:14:26,419 - Sender: sending packet 45
+2024-11-15 15:14:26,419 - Sender: sending packet 46
+2024-11-15 15:14:26,432 - Receiver: packet 44 received out of order
+2024-11-15 15:14:26,450 - Receiver: packet 45 received out of order
+2024-11-15 15:14:26,457 - Receiver: packet 46 received out of order
+2024-11-15 15:14:26,457 - Sender: ack 42 received, ignoring
+2024-11-15 15:14:26,469 - Sender: ack 42 received, ignoring
+2024-11-15 15:14:26,470 - Sender: ack 42 received, ignoring
+2024-11-15 15:14:26,519 - Sender: packet 43 timed out
+2024-11-15 15:14:26,519 - Sender: sending packet 43
+2024-11-15 15:14:26,532 - Sender: sending packet 44
+2024-11-15 15:14:26,538 - Sender: sending packet 45
+2024-11-15 15:14:26,538 - Receiver: packet 43 received
+2024-11-15 15:14:26,550 - Sender: sending packet 46
+2024-11-15 15:14:26,587 - Receiver: packet 44 received
+2024-11-15 15:14:26,593 - Receiver: packet 45 received
+2024-11-15 15:14:26,593 - Sender: ack 43 received
+2024-11-15 15:14:26,606 - Receiver: packet 46 received
+2024-11-15 15:14:26,625 - Sender: packet 47 dropped
+2024-11-15 15:14:26,656 - Sender: ack 44 received
+2024-11-15 15:14:26,656 - Sender: sending packet 48
+2024-11-15 15:14:26,668 - Sender: ack 45 received
+2024-11-15 15:14:26,668 - Sender: ack 46 received
+2024-11-15 15:14:26,675 - Receiver: packet 48 received out of order
+2024-11-15 15:14:26,706 - Sender: ack 46 received, ignoring
+2024-11-15 15:14:26,706 - Sender: packet 47 timed out
+2024-11-15 15:14:26,719 - Sender: sending packet 47
+2024-11-15 15:14:26,738 - Sender: sending packet 48
+2024-11-15 15:14:26,744 - Receiver: packet 47 received
+2024-11-15 15:14:26,793 - Receiver: packet 48 received
+2024-11-15 15:14:26,799 - Sender: ack 47 received
+2024-11-15 15:14:26,823 - Sender: ack 48 received
